@@ -1,4 +1,4 @@
-vg _resources # puts "Processing #{plugin}"
+8vg _resources # puts "Processing #{plugin}"
       //commandfile. maujemau
       //texteditor terminal mac.
       //cut editor fix term
@@ -46,4 +46,4 @@ vg _resources # puts "Processing #{plugin}"
                             
         reg command 92 
         six 
-        command
+        commandAllah
