@@ -1,6 +1,6 @@
-specific 02 
+specific 02 root specific counter as 90 rootkut tpc apache config;
      user 02 
-      finder remote 
+      finder remote fing net;
       03 
       sender 02 
       
@@ -8,7 +8,7 @@ specific 02
       finder 02 
      sender 02 
      
-   sender 02 find
-      send 02 99
+   sender 02 find close server as computecs crizztiretation90 comput t elemen
+      send 02 99AZZ99
       hold
         catch 02
